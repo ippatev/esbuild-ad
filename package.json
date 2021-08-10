@@ -1,0 +1,12 @@
+{
+  "name": "esbuild-ad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild  src/app.js --bundle --target=es6 --sourcemap --format=esm  --outdir=dist"
+  },
+  "dependencies": {
+    "esbuild": "^0.12.19"
+  }
+}
