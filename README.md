@@ -1,4 +1,4 @@
 # esbuild-ad
 
-esbuild adventure
+Adventure of ESBUILD
 - [x] let's build bundle with esbuild
